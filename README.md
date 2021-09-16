@@ -1,6 +1,6 @@
 # Bookinfo Detail Service
 
-Detail service has been developed on Ruby on Rail
+Detail service has been developed on Ruby
 
 ## License
 
