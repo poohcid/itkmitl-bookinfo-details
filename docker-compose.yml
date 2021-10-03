@@ -1,6 +1,7 @@
 services:
   details:
     build: .
+    image: ghcr.io/poohcid/bookinfo-details:dev
     ports: 
       - "8081:8081"
     environment:
