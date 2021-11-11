@@ -1,7 +1,7 @@
 services:
   details:
     build: .
-    image: ghcr.io/poohcid/bookinfo-details:dev
+    image: ghcr.io/poohcid/bookinfo-details:prd
     ports: 
       - "8081:8081"
     environment:
